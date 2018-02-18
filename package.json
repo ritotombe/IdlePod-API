@@ -1,0 +1,33 @@
+{
+  "name": "idlepod-api",
+  "version": "1.0.0",
+  "description": "IdlePod API - Created By Septi Tombe 18 Feb 2018",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritotombe/IdlePod-API.git"
+  },
+  "keywords": [
+    "idlepod",
+    "server",
+    "api",
+    "node"
+  ],
+  "author": "Septi Rito Tombe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ritotombe/IdlePod-API/issues"
+  },
+  "homepage": "https://github.com/ritotombe/IdlePod-API#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-validator": "^5.0.1",
+    "mongoose": "^5.0.6",
+    "parseurl": "^1.3.2",
+    "path": "^0.12.7"
+  }
+}
